@@ -8,9 +8,20 @@ An intelligent video analysis platform powered by Google Gemini AI that enables 
 [![Google Gemini](https://img.shields.io/badge/Gemini-2.0-purple.svg)](https://deepmind.google/technologies/gemini/)
 
 
+
+
 ## 📋 Description
 
 **Video AI Summarizer** is a sophisticated multimodal AI application that bridges the gap between video content and natural language understanding. Built with cutting-edge technologies, this tool transforms how users interact with video content by enabling conversational analysis.
+
+## 🎯 Results
+
+### Application Screenshots
+<img width="1919" height="1028" alt="Screenshot 2026-02-03 203712" src="https://github.com/user-attachments/assets/397655e2-9dd3-480c-997d-de84ae25cbf1" />
+
+<img width="1911" height="1029" alt="Screenshot 2026-02-03 203845" src="https://github.com/user-attachments/assets/0297b80a-902c-436b-9c10-e4c218d99002" />
+
+
 
 ## ✨ Features
 
@@ -140,24 +151,6 @@ Video Summarizer/
 ├── .gitignore           # Git ignore rules
 └── README.md            # Project documentation
 ```
-
-## 🎯 Results
-
-### Application Screenshots
-
-*Add your screenshots here to showcase the application interface and results*
-
-#### Home Screen
-![Home Screen](path/to/screenshot1.png)
-
-#### Video Loaded
-![Video Loaded](path/to/screenshot2.png)
-
-#### Chat Interface
-![Chat Interface](path/to/screenshot3.png)
-
-#### Analysis Results
-![Analysis Results](path/to/screenshot4.png)
 
 ## 🔧 Configuration
 
